@@ -1,0 +1,21 @@
+#fname{
+    background-color:blue;
+    }
+#lname{
+    background-color:brown;
+    }
+#email{
+    background-color:red
+    }
+#address{
+    background-color:yellow;
+    }
+#submit{
+    background-color:pink
+    }
+.ClassForm{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: purple;
+
+    }
